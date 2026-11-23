@@ -1,10 +1,16 @@
-# Titulo: Prueba del primer repositorio
-## Subtitulo: Inicio del proyecto
+# Mi primer repositorio
 
----
+Este es mi primer proyecto guardado en GitHub.
 
-### Este archivo fue creado por:
-- Avishag Sadrinas
-- 2023avishagsadrinas@yeshuruntora.edu.ar
+## Herramientas que estoy usando
 
-**Fin de la prueba** 
+- GitHub
+- Markdown
+
+## Estado
+
+- Cuenta creada
+- Repositorio creado
+- Primer proyecto subido
+
+**Nota:** este archivo fue editado desde GitHub.dev.
